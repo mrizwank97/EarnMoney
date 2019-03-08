@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Earn Money</string>
+    <!-- This is add id. each add has its own unique id -->
+    <string name="app_id">ca-app-pub-4103751898520710~6888637940</string>
+
+    <string name="admob_interstitial_id">ca-app-pub-4103751898520710/7020499889</string>
+    <string name="admob_interstitial_id2">ca-app-pub-4103751898520710/6001085775</string>
+
+    <string name="reward_video_id">ca-app-pub-3940256099942544/5224354917</string>
+
+    <string name="reward_video_id2">ca-app-pub-4103751898520710/5370530386</string>
+
+    <string name="reward_video_id3">ca-app-pub-4103751898520710/4861240404</string>
+
+    <string name="ad_unit_banner">ca-app-pub-4103751898520710/2770974121</string>
+
+
+    <string name="task1Next">Next Task</string>
+    <string name="task1Text">You can see ads in this task see the ads few second and then close all ads one by one(don,t click on any ad only close after seeing) your points will automatically added to your wallet</string>
+    <string name="task2Text">here a video ad is appear watch this ad till end and your points will automatically added to your wallet.</string>
+</resources>
